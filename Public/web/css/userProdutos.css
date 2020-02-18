@@ -1,0 +1,23 @@
+.bg-nav, .footer {
+    background-color: #171F2C!important;
+}
+.nav-link {
+    color: #fff!important;
+    margin: 10px 0;
+}
+.nav-link:hover {
+    color: #ccc!important;
+}
+.mt-8 {
+    margin-top: 8rem;
+}
+.center{
+    margin:0 auto;
+}
+.bg-light-blue {
+    background-color: #283141!important;
+}
+
+.col-md-6.col-lg-4.p-3 > .card {
+    height: 800px;
+}

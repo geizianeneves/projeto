@@ -1,0 +1,25 @@
+{
+  "nome" :  "mariafantuci/actickets",
+  "description" : "Ac Tickets - comercio eletrônico, ingressos acadêmicos",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Geiziane Cruz das Neves",
+      "email": "geizianeneves@hotmail.com"
+    },
+    {
+      "name": "Maria Eduarda dos Santos Fantuci",
+      "email": "mariafantuci@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {
+    "coffeecode/router" : "1.0.*",
+    "phpmailer/phpmailer" :  "6.0.7"
+  }
+}
